@@ -5,7 +5,8 @@
 
 <h3 id="spotify-playing-">Spotify Playing 🎧</h3>
 <p>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=22ejy6qskadwfr2z7vx273uzy&cover_image=false&theme=default&show_offline=true&background_color=121212" alt="ivanovUA Spotify Playing" width="350" />
+  <a href="https://open.spotify.com/user/u72bkq9pkwey82nfg4vshg377">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=22ejy6qskadwfr2z7vx273uzy&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true" alt="ivanovUA Spotify Playing" width="350" />
   </a>
 </p>
 
