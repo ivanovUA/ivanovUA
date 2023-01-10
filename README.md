@@ -9,3 +9,7 @@
    <img src="https://spotify-github-profile.vercel.app/api/view?uid=22ejy6qskadwfr2z7vx273uzy&cover_image=false&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" alt="Saurav Spotify Playing" width="350" />
   </a>
 </p>
+
+<h3 align="left">Github Stats </h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanovUA&show_icons=true&locale=en" alt="ivanovUA" /></p>
+
