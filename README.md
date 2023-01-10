@@ -13,3 +13,6 @@
 <h3 align="left">Github Stats </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanovUA&show_icons=true&locale=en" alt="ivanovUA" /></p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="http://t.me/a1ex_iv" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="ivanovUA" height="40" width="40" /></a>
