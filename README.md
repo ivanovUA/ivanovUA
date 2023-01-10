@@ -15,4 +15,4 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="http://t.me/a1ex_iv" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="ivanovUA" height="40" width="40" /></a>
+<a href="http://t.me/a1ex_iv" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="ivanovUA" /></a>
